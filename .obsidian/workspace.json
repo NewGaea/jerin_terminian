@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Gaea/grammar/01_introduction_context.md",
+                "file": "New Gaea/grammar/04_basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grammar/basic/01_intro_context.md",
+                "file": "grammar/basic/03_basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f1ecc588cd8eb92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grammar/basic/02_how_to_speak_and_type.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grammar/basic/01_intro_context.md",
+                "file": "grammar/basic/03_basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grammar/basic/01_intro_context.md",
+                "file": "grammar/basic/03_basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grammar/basic/01_intro_context.md"
+                "file": "grammar/basic/03_basics.md"
               }
             }
           }
@@ -166,13 +178,19 @@
   },
   "active": "d8b4e9673bd0ffb9",
   "lastOpenFiles": [
+    "New Gaea/grammar/04_basics.md",
+    "New Gaea/lexicon/raw_wordlist.md",
+    "grammar/basic/03_basics.md",
+    "grammar/basic/02_how_to_speak_and_type.md",
+    "lexicon/namelist.md",
+    "lexicon/lexicon.md",
     "New Gaea/grammar/01_introduction_context.md",
+    "lexicon",
     "grammar/basic/01_intro_context.md",
     "jerin_lexicon.md",
     "grammar/advanced",
     "grammar/basic",
     "grammar",
-    "README.md",
-    "New Gaea/grammar/04_basics.md"
+    "README.md"
   ]
 }
