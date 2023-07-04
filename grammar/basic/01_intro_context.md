@@ -54,6 +54,8 @@ There is a degree of class stratification in Terminian, largely marked by word c
 
 > signed: Jerin of Calatia
 
+> **NOTE:** For casual readers, it is advised that you **[skip ahead to the next chapter.](grammar/basic/02_how_to_speak_and_type)** The following text is most valuable to fans who want a richer understanding of the language and its context within the _fanon_ of the Hylian Linguistic Society project.
+
 ### History of the Terminian Language
 
 > _**Note:** The following text is an in-setting history, and does not reflect upon any strict canonical contents of the video games._
