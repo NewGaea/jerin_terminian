@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grammar/basic/02_how_to_speak_and_type.md",
+                "file": "grammar/basic/03_basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d1d5bb0c09f80778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5beb55088e6a68c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Gaea/lexicon/community_wordlist.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "grammar/basic/02_how_to_speak_and_type.md",
+            "file": "grammar/basic/03_basics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "grammar/basic/02_how_to_speak_and_type.md",
+            "file": "grammar/basic/03_basics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "grammar/basic/02_how_to_speak_and_type.md"
+            "file": "grammar/basic/03_basics.md"
           }
         }
       }
@@ -131,10 +149,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb22d65c5ca3c2a8",
+  "active": "1117dee4adf52c0a",
   "lastOpenFiles": [
-    "New Gaea/grammar/02_phonology.md",
+    "New Gaea/lexicon/community_wordlist.md",
+    "grammar/basic/03_basics.md",
+    "New Gaea/lexicon/new_wordlist_2021.md",
+    "New Gaea/lexicon/raw_wordlist.md",
     "grammar/basic/02_how_to_speak_and_type.md",
+    "lexicon/namelist.md",
+    "lexicon/lexicon.md",
+    "lexicon",
+    "New Gaea/grammar/02_phonology.md",
     "grammar/basic/01_intro_context.md",
     "README.md",
     "109b7dafa8e3c17e70f512dd69fe1793552fb21f.gif",
@@ -158,19 +183,12 @@
     "New Gaea/lexicon/e_ih.md",
     "New Gaea/lexicon/desktop.ini",
     "New Gaea/lexicon/community_wordlist (1).md",
-    "New Gaea/lexicon/raw_wordlist.md",
     "New Gaea/lexicon/n_s.md",
-    "New Gaea/lexicon/community_wordlist.md",
     "New Gaea/lexicon/index.md",
     "New Gaea/lexicon/a",
-    "New Gaea/lexicon/new_wordlist_2021.md",
     "New Gaea/lexicon/a_d.md",
     "New Gaea/lexicon/v_z.md",
-    "New Gaea/lexicon/new_wordlist_2021[Conflict].md",
-    "New Gaea/lexicon/new_wordlist_2021 (1).md",
-    "New Gaea/lexicon/sh_uh.md",
     "New Gaea/grammar/desktop.ini",
-    "New Gaea/desktop.ini",
     "fonten/font_screen/bete.png",
     "fonten/font_screen/numeral 2 two.png",
     "fonten/font_screen/vete.png",

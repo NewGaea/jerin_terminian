@@ -189,7 +189,7 @@
 * **\*koem**
   * **koemag** (ko em' ag) _v._ to eat
   * **koeme** (ko em' e) _n._ food
-* konktra (konk' tra) _adj._ right, correct
+* **konktra** (konk' tra) _adj._ right, correct
 * **kono** (kon' o) _pn._ what, which (interrogative)
 * **\*kos** (kos)
   * **kosa** (ko' sae) _adj num._ four
