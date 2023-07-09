@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grammar/basic/03_basics.md",
+                "file": "New Gaea/grammar/04_basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grammar/basic/03_basics.md",
+                "file": "New Gaea/grammar/04_basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grammar/basic/03_basics.md"
+                "file": "New Gaea/grammar/04_basics.md"
               }
             }
           }
@@ -176,11 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8b4e9673bd0ffb9",
+  "active": "350f7f2ff0ee66e7",
   "lastOpenFiles": [
+    "grammar/basic/03_basics.md",
     "New Gaea/grammar/04_basics.md",
     "New Gaea/lexicon/raw_wordlist.md",
-    "grammar/basic/03_basics.md",
     "grammar/basic/02_how_to_speak_and_type.md",
     "lexicon/namelist.md",
     "lexicon/lexicon.md",
