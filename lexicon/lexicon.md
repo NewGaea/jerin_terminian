@@ -5,8 +5,12 @@ This is a wordlist for **Terminian.** It is sorted alphabetically as if it were 
 
 ## A
 
-+ **aktobent** (ack: toe bent) 1. _noun_ alphabet, a phonetic writing system
++ **aktobent** (aek: to bent) 1. _noun_ alphabet, a phonetic writing system
 + **ap<sup>h</sup>** (aep') 1. _particle_ direct object particle, the following phrase is the direct object
+
+## M
+
++ **maetju** ('mætʰ jʌ) 1. (_noun 1_) swamp, bog, marsh, wetland
 
 ## T
 

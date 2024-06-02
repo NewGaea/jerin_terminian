@@ -39,7 +39,7 @@ _verbal paradigm_
 
 * Infinitive: **akimag** (to befriend)
 * Imperative: **akimans** (make a friend)
-* Present: **akimas** (befriend[ing]), **akimant** (have befriended)
+* Present: **akimas** (befriend\[ing]), **akimant** (have befriended)
 
 ### Derivation
 

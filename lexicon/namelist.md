@@ -4,7 +4,7 @@ This is a list of names documented in Termina, sorted in English alphabetical or
 
 ## A
 
-+ **Anû** (an: <sup>j</sup>u) Anju
++ **Anü** (an: <sup>j</sup>u) Anju
 + Aroma, Madame (Surname?)
 + Aveil (Gerudo)
 
@@ -64,7 +64,7 @@ This is a list of names documented in Termina, sorted in English alphabetical or
 
 ## L
 
-+ Lulu (Zora)
++ **Lulu** () Lulu (Zora)
 
 ## M
 
